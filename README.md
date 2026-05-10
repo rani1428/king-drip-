@@ -1,3 +1,4 @@
+<img width="1448" height="1086" alt="shirt" src="https://github.com/user-attachments/assets/a7035de1-1bea-4000-9319-06addb66c761" />
 
 [king drip index.html](https://github.com/user-attachments/files/27570771/king.drip.index.html)
 <!DOCTYPE html>
