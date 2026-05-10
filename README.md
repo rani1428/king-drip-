@@ -1,5 +1,4 @@
-# king-drip-
-הגעתם למקום עם הכי הרבה סטייל בארץ
+
 [king drip index.html](https://github.com/user-attachments/files/27570771/king.drip.index.html)
 <!DOCTYPE html>
 <html lang="he" dir="rtl">
